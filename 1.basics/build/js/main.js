@@ -1,0 +1,27 @@
+"use strict";
+var username = 'gdpp';
+console.log(username);
+var a = 20;
+var b = 6;
+var c = 2;
+console.log(a / b);
+console.log(c * b);
+var myName;
+myName = 'Gustavo';
+var meaningOfLife;
+meaningOfLife = 2;
+var isLoading;
+isLoading = true;
+var album;
+album = 'Fear Inoculum';
+var union;
+union = 3;
+var sum = function (a, b) {
+    return a + b;
+};
+var postId;
+var isActive;
+var re = /\w+/g;
+var strArr = ['one', 'punch', 'man'];
+var guitars = ['Strat', 'Les Paul', 5150];
+var mixData = ['EVH', 1984, true];
