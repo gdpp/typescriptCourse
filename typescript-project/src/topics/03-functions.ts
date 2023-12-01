@@ -22,7 +22,7 @@ function multiply(firstNumber: number, secondNumber?: number, base: number = 4){
 
 interface Character{
     name: string;
-    hp: string;
+    hp: number;
     showHp: () => void;
 }
 
